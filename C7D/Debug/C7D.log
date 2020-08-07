@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(C7D.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  calculator.cpp
+c:\users\jckcoenf\source\repos\c7d\c7d\calculator.cpp(293): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\users\jckcoenf\source\repos\c7d\c7d\calculator.cpp(221): warning C4715: “Symbol_table::get”: 不是所有的控件路径都返回值
+c:\users\jckcoenf\source\repos\c7d\c7d\calculator.cpp(179): warning C4715: “Token_stream::get”: 不是所有的控件路径都返回值
+c:\users\jckcoenf\source\repos\c7d\c7d\calculator.cpp(315): warning C4715: “primary”: 不是所有的控件路径都返回值
+  C7D.vcxproj -> C:\Users\jckcoenf\source\repos\C7D\Debug\calculator.exe
