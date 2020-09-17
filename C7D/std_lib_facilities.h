@@ -1,7 +1,4 @@
 #pragma once
-#pragma once
-#pragma once
-#pragma once
 /*
    std_lib_facilities.h
 */
